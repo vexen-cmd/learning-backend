@@ -1,0 +1,28 @@
+.# dependencies
+node_modules/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# MongoDB local files
+src/db/db
+
+
+# Environment files
+.env
+
+# environment variables
+.env
+
+# logs
+*.log
+
+# build files
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
